@@ -10,9 +10,9 @@
 <br/>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=garvbahal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="garvbahal views" />
+  <img src="https://komarev.com/ghpvc/?username=garvbahal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://linkedin.com/in/garv-bahal" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="garv-bahal linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
@@ -43,9 +43,9 @@
 
 <p align="center">
   <a href="https://github.com/garvbahal">
-    <img src="https://github-readme-stats.vercel.app/api?username=garvbahal&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6" alt="Garv's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=garvbahal&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/garvbahal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvbahal&theme=tokyonight&hide_border=true&stroke=0000&ring=0e75b6&fire=0e75b6" alt="Garv's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahal&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" alt="Top Languages" />
   </a>
 </p>
