@@ -13,3 +13,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I’m currently pursuing a **Bachelor of Engineering in Information Technology** at M.B.M University.
+- 🚀 Recently built **CODENEST** (a real-time collaborative coding platform) and **ASKDOCS** (a RAG-based AI chat platform).
+- 🌱 I’m currently honing my skills in **Data Structures & Algorithms**, **DevOps**, and **Cloud Computing**.
+- 💬 Ask me about **MERN Stack, Next.js, or WebSockets**.
+- 📫 How to reach me: **[garvbahal75@gmail.com](mailto:garvbahal75@gmail.com)**
+- ⚡ Fun fact: **I write cleaner code than I keep my desk!**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,tailwind,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,docker,nginx,git,github&perline=10" />
+  </a>
+</p>
+
+---
