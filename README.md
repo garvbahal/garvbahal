@@ -43,9 +43,15 @@
 
 <p align="center">
   <a href="https://github.com/garvbahal">
-    <img src="https://github-readme-stats.vercel.app/api?username=garvbahal&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvbahal&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/garvbahal">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvbahal&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777)
   </a>
   <a href="https://github.com/garvbahal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahal&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" alt="Top Languages" />
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahal&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777)
   </a>
 </p>
